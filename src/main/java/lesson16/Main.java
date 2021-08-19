@@ -19,5 +19,6 @@ public class Main {
 
         sklad.deleteTovar(tovar1, 5);
         System.out.println();
+        System.out.println();
     }
 }
